@@ -8,7 +8,7 @@ import "forge-std/Test.sol";
 // Contract under test
 import "../src/volcanoCoin.sol";
 
-contract volcanoCoin is Test {
+contract volcanoCoinTest is Test {
     // Variable for contract instance
     VolcanoCoin public volcanoCoin;
 
