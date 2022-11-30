@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.0;
 
-import "v3-core/interfaces/ISwapRouter.sol";
-import "v3-core/libraries/TransferHelper.sol";
+import "v3-periphery/interfaces/ISwapRouter.sol";
+import "v3-periphery/libraries/TransferHelper.sol";
 
 // import '@uniswap/v3-periphery/contracts/interfaces/ISwapRouter.sol';
 // import '@uniswap/v3-periphery/contracts/libraries/TransferHelper.sol';
